@@ -1,2 +1,2 @@
 touch made.txt
-ls -al
+pwd
